@@ -1,0 +1,13 @@
+{
+    "name": "waknauss/dusk-standalone",
+    "description": "Using Laravel Dusk as a standalone component",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "William Knauss",
+            "email": "william.knauss@kingdom.com"
+        }
+    ],
+    "require": {}
+}
